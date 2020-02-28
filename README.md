@@ -7,7 +7,7 @@ inside all tags that have the class 'cimment-list' (there can be more than one s
 these elements will have a 'data-count' attribute determining the number of comments to fetch.
 
 Here's an example of such a tag: 
-<div class="comment-list" data-count=10></div>
+"<div class="comment-list" data-count=10></div>"
 
 The comment data for this tag can be obtained by making an AJAX call to the follwing endpoint.
 
