@@ -1,0 +1,23 @@
+{
+   "data": [{
+         "id": 1,
+         "username": "Alex",
+         "message": "Hi there!"
+      },
+      {
+         "id": 2,
+         "username": "Sam",
+         "message": "Hello Alex!"
+      },
+      {
+         "id": 3,
+         "username": "David",
+         "message": "What's up Alex?"
+      },
+      {
+         "id": 1,
+         "username": "Alex",
+         "message": "I'm great!"
+      }
+   ]
+}
